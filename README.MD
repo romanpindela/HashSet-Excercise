@@ -1,0 +1,1 @@
+This is excercise of creating HashSet with LinkedList. #codecool
